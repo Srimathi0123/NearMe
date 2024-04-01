@@ -25,6 +25,28 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+## mapp.html
+```
+<html>
+    <head>
+        <h2><center>Tiruvannamalai</center></h2>
+        <h3><center>Srimathi V-212221040162</center></h3>
+    <hr>
+    </head>
+    <body bgcolor="brown">
+
+<img src="WhatsApp Image 2024-04-01 at 9.07.49 PM.jpeg" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="Arunachala Hill" title="Arunachala Hill" href="arunachala.html" coords="437,198,356,213" shape="rect">
+    <area target="" alt="Aruna" title="Aruna" href="aruna.html" coords="454,306,514,328" shape="rect">
+    <area target="" alt="Girivalam" title="Girivalam" href="girivalam.html" coords="510,97,37" shape="circle">
+    <area target="" alt="Kubera Lingam" title="Kubera Lingam" href="kubera.html" coords="424,51,36" shape="circle">
+    <area target="" alt="ramana" title="ramana" href="ramana.html" coords="450,404,496,392" shape="rect">
+</map>
+</body>
+</html>
+
 ## Aruna.html
 ```
 <html>
@@ -106,6 +128,8 @@ Execute the programs and publish them.
     </p>
 </body>
 </html>
+```
+
 ```
 
 
